@@ -1,0 +1,8 @@
+bin
+include
+lib
+*.egg-info
+.idea
+.DS_Store
+pip-selfcheck.json
+
